@@ -1,0 +1,20 @@
+.area{
+    margin-top: 70px;
+}
+
+.row{
+    display: flex;
+    padding: 5px;
+    position:relative;
+    left: 40%;
+
+}
+
+.pit{
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+    margin: 5px;
+    cursor: pointer;
+}
+
